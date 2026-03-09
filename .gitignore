@@ -1,0 +1,13 @@
+# IDE
+.idea/
+*.iml
+.gigaide/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# System
+.DS_Store
